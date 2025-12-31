@@ -1,0 +1,10 @@
+# Cloudflare Pages configuration
+# This file ensures proper deployment configuration
+
+# For Cloudflare Pages, ensure your deployment settings:
+# - Build command: npm run release  
+# - Build output directory: dist
+# - Root directory: (leave empty for current directory)
+
+# SPA routing
+/* /index.html 200
